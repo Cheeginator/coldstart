@@ -1,4 +1,4 @@
-FROM golang:1.24-alpine3.20 AS builder
+FROM golang:1.25-alpine3.23 AS builder
 
 WORKDIR /
 
@@ -9,7 +9,7 @@ COPY . .
 RUN GOARCH=amd64 go build -o coldstart .
 
 # Deploy container
-FROM alpine:3.20 AS deploy
+FROM alpine:3.23 AS deploy
 
 WORKDIR /
 
