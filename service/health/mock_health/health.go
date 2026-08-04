@@ -13,7 +13,7 @@ import (
 	context "context"
 	reflect "reflect"
 
-	health "github.com/BrandonBentley/coldstart/service/health"
+	health "github.com/Cheeginator/coldstart/service/health"
 	gomock "go.uber.org/mock/gomock"
 )
 

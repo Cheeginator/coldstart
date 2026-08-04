@@ -1,8 +1,8 @@
 package health
 
 import (
-	"github.com/BrandonBentley/coldstart/service/health"
-	"github.com/BrandonBentley/coldstart/service/health/healthintf"
+	"github.com/Cheeginator/coldstart/service/health"
+	"github.com/Cheeginator/coldstart/service/health/healthintf"
 	"go.uber.org/fx"
 )
 

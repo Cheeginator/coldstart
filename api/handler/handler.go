@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"github.com/BrandonBentley/coldstart/api/handler/health"
+	"github.com/Cheeginator/coldstart/api/handler/health"
 	"go.uber.org/fx"
 )
 

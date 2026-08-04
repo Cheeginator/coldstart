@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/BrandonBentley/coldstart/api"
-	"github.com/BrandonBentley/coldstart/client"
-	"github.com/BrandonBentley/coldstart/config"
-	"github.com/BrandonBentley/coldstart/entity"
-	"github.com/BrandonBentley/coldstart/service"
-	_ "github.com/BrandonBentley/slogctx/sloginit"
+	"github.com/Cheeginator/coldstart/api"
+	"github.com/Cheeginator/coldstart/client"
+	"github.com/Cheeginator/coldstart/config"
+	"github.com/Cheeginator/coldstart/entity"
+	"github.com/Cheeginator/coldstart/service"
+	_ "github.com/Cheeginator/slogctx/sloginit"
 
 	"go.uber.org/fx"
 )

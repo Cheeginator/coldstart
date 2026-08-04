@@ -1,7 +1,7 @@
 package entity
 
 import (
-	"github.com/BrandonBentley/coldstart/entity/health"
+	"github.com/Cheeginator/coldstart/entity/health"
 	"go.uber.org/fx"
 )
 

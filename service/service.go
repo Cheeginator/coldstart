@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/BrandonBentley/coldstart/service/health"
+	"github.com/Cheeginator/coldstart/service/health"
 	"go.uber.org/fx"
 )
 

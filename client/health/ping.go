@@ -4,7 +4,7 @@ import (
 	"context"
 	"log/slog"
 
-	"github.com/BrandonBentley/slogctx"
+	"github.com/Cheeginator/slogctx"
 )
 
 func (c *Client) Ping(ctx context.Context) error {

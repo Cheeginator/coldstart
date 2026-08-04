@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/BrandonBentley/coldstart/api/handler/health"
-	"github.com/BrandonBentley/coldstart/config"
+	"github.com/Cheeginator/coldstart/api/handler/health"
+	"github.com/Cheeginator/coldstart/config"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/fx"
 )

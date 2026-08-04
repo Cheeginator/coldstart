@@ -3,7 +3,7 @@ package healthintf
 import (
 	"context"
 
-	"github.com/BrandonBentley/coldstart/service/health"
+	"github.com/Cheeginator/coldstart/service/health"
 )
 
 //go:generate mockgen -package=health -source=health.go -destination=../mock_health/health.go

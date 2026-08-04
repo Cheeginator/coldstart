@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/BrandonBentley/coldstart/api/handler"
-	"github.com/BrandonBentley/coldstart/api/server"
+	"github.com/Cheeginator/coldstart/api/handler"
+	"github.com/Cheeginator/coldstart/api/server"
 	"go.uber.org/fx"
 )
 

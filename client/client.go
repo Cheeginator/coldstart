@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/BrandonBentley/coldstart/client/health"
+	"github.com/Cheeginator/coldstart/client/health"
 	"go.uber.org/fx"
 )
 

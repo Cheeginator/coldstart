@@ -5,8 +5,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/BrandonBentley/coldstart/client/health/mock_health"
-	mock_healthe "github.com/BrandonBentley/coldstart/entity/health/mock_health"
+	"github.com/Cheeginator/coldstart/client/health/mock_health"
+	mock_healthe "github.com/Cheeginator/coldstart/entity/health/mock_health"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/mock/gomock"
 )

@@ -35,7 +35,7 @@ var files = []string{
 
 var coldstartRegex = regexp.MustCompile("coldstart")
 
-var coldstartModuleName = regexp.MustCompile("github.com/BrandonBentley/coldstart")
+var coldstartModuleName = regexp.MustCompile("github.com/Cheeginator/coldstart")
 
 func main() {
 	if len(os.Args) < 2 {
@@ -142,7 +142,7 @@ git commit -m "initial commit from coldstart"
 
 const readmeFmtString = `
 # %v
-Initialized via [coldstart](https://github.com/BrandonBentley/coldstart)
+Initialized via [coldstart](https://github.com/Cheeginator/coldstart)
 `
 
 func readFolder(folderName string) {
